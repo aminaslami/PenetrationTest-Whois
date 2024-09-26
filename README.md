@@ -2,4 +2,4 @@
 
 ## Finding the IP Range
 
-### This project is 
+### This project is academic 
